@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Test Project</string>
+    <string name="app_logo">App Logo</string>
+    <string name="test_project">Test Project</string>
+    <string name="senior_android">Senior Android Developer</string>
+    <string name="login">Login</string>
+</resources>
